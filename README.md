@@ -18,7 +18,7 @@ This project is a simple multi-threaded HTTP web server built using C++. It list
 ├── threadpool.h    # Header file for thread pool
 ├── utils.cpp       # Utility functions (e.g., request parsing)
 ├── utils.h         # Header file for utility functions
-└── www/            # Directory containing static files (HTML, CSS, etc.)
+└── www/            # Directory containing static files (HTML, CSS, etc. (HTML onlyfor now :) )
 ```
 
 ## Setup & Compilation
