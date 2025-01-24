@@ -81,6 +81,3 @@ Feel free to fork this repository, submit issues, and make pull requests. Contri
 
 ## License
 This project is licensed under the MIT License.
-
-## Contact
-If you have any questions or need help, please reach out to me- navai.suleymanli@gmail.com
